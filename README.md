@@ -13,4 +13,6 @@ and creates a JSON object with:
 - steps
 - audience
 
+  Example output: see `output.json`
+
 
